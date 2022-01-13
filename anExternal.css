@@ -1,0 +1,59 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+    background-image: url("https://cdn.wallpapersafari.com/71/6/J71qdp.jpg");
+}
+h1 {
+    color:rgb(91, 158, 121);
+    text-transform: uppercase;
+    border-style: dotted;
+}
+h2 {
+    background-color:darkseagreen;
+    border: 2px;
+    border-radius: 8px;
+    padding: 5px;
+}
+#one {
+    font-family: "Optima, sans-serif";
+    font-size: 15px;
+    color: beige;
+}
+#two {
+    font-family: "Times, Times New Roman, serif";
+    font-size: 15px;
+    color: beige;
+}
+a {
+    width: 10px;
+    height: 10px;
+    margin: 5px;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.flowershop {
+    position: relative;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    margin: 20px;
+}
+.flowershop img {
+    height: 500px;
+    width: 500px;
+}
+.tulip img {
+    height: 50px;
+    width: 50px;
+    float: left;
+}
+.rose img {
+    height: 50px;
+    width: 50px;
+    float: right;
+}
+
