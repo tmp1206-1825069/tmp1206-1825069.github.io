@@ -19,13 +19,6 @@ body{
 	text-shadow: 2px 2px black;
 }
 
-h3{
-	color: #FFBC00;
-	font-size: 40px;
-	font-family: "Passion One";
-	margin-bottom: 0px;
-
-}
 
 p{
 	font-weight: bold;
@@ -45,10 +38,6 @@ p{
 	float: left;
 	width: 400px;
 	padding-bottom: 8px;
-}
-
-#LeftNav ul{
-	color: white;
 }
 
 a{
@@ -72,7 +61,10 @@ ul{
 }
 
 .titles{
-	
+	color: #FFBC00;
+	font-size: 40px;
+	margin-bottom: 0px;
+	font-family: "Passion One";
 }
 
 #bow{
